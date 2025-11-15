@@ -1,11 +1,11 @@
 import Menu from "@/components/Menu";
-const Home = () => {
+const Usuario = () => {
   return (
     <div>
       <Menu/><br />
-      <h2>Home </h2>
+      <h2>Cadastro de Usuário</h2>
     </div>
   );
 }
 
-export default Home;
+export default Usuario;
