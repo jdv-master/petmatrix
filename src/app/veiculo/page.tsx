@@ -1,13 +1,13 @@
 import Menu from "@/components/Menu";
 import Footer from "@/components/Footer";
-const Home = () => {
+const Veiculo = () => {
   return (
     <div>
       <Menu/><br />
-      <h2>Home </h2><br />
+      <h2>Cadastro de Veiculo</h2><br />
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default Veiculo;
